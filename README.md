@@ -9,21 +9,19 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 ## Sample Application Screenshots
 
 
-![Sample Image 1]()
-![Sample Image 2]()
+![Sample Image 1](https://github.com/ziko-ahmed/Movie-Recommender/blob/main/Images/recommend.png)
 
 
 **Description Page:** Explore essential movie details and information about the cast.
 
 
-![Sample Image 3]()
-![Sample Image 4]()
+![Sample Image 2](https://github.com/ziko-ahmed/Movie-Recommender/blob/main/Images/describe.png)
 
 
 **Check All Movies Page:** Navigate between pages with ease using buttons or the slider.
 
 
-![Sample Image 5]()
+![Sample Image 3](https://github.com/ziko-ahmed/Movie-Recommender/blob/main/Images/all.png)
 
 
 ## Try the App
