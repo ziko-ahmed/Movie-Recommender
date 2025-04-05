@@ -38,7 +38,7 @@ pandas==2.1.1
 Pillow==10.0.1
 protobuf==4.24.4
 cmake
-pyarrow==13.0.0
+pyarrow
 pydeck==0.8.1b0
 Pygments==2.16.1
 pymdown-extensions==10.3
